@@ -15,40 +15,40 @@
 }
 @font-face {
     font-family: '_i_love_glitterregular';
-    src: url('C:/Users/Home/Desktop/herbal/css/i_love_glitter.woff2') format('woff2'),
-         url('C:/Users/Home/Desktop/herbal/css/i_love_glitter.woff') format('woff');
+    src: url('../fonts/i_love_glitter.woff2?') format('woff2'),
+         url('../fonts/i_love_glitter.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'alifiyahregular';
-    src: url('C:/Users/Home/Desktop/herbal/css/alifiyah.woff2') format('woff2'),
-         url('C:/Users/Home/Desktop/herbal/css/alifiyah.woff') format('woff');
+    src: url('../fonts/alifiyah.woff2') format('woff2'),
+         url('../fonts/alifiyah.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'velocity_-_demoregular';
-    src: url('C:/Users/Home/Desktop/herbal/css/velocity_demo.woff2') format('woff2'),
-         url('C:/Users/Home/Desktop/herbal/css/velocity_demo.woff') format('woff');
+    src: url('../fonts/velocity_demo.woff2') format('woff2'),
+         url('../fonts/velocity_demo.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'anamorteeregular';
-    src: url('C:/Users/Home/Desktop/herbal/css/anamortee_otf.woff2') format('woff2'),
-         url('C:/Users/Home/Desktop/herbal/css/anamortee_otf.woff') format('woff');
+    src: url('../fonts/anamortee_otf.woff2') format('woff2'),
+         url('../fonts/anamortee_otf.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'afternoon_in_stereo_personaRg';
-    src: url('C:/Users/Home/Desktop/herbal/css/afternoon_in_stereo_personal_use.woff2') format('woff2'),
-         url('C:/Users/Home/Desktop/herbal/css/afternoon_in_stereo_personal_use.woff') format('woff');
+    src: url('../fonts/afternoon_in_stereo_personal_use.woff2') format('woff2'),
+         url('../fonts/afternoon_in_stereo_personal_use.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
